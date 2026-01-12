@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "脚本",
+  "base_artist": "LUCKY TAPES",
+  "createdAt": "2026-01-12T13:40:14.729327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "脚本",
+      "artist": "王力宏",
+      "has_synced": true,
+      "path": "select/01_脚本_王力宏.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "脚本",
+      "artist": "王力宏",
+      "has_synced": true,
+      "path": "select/02_脚本_王力宏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "脚本(Live)",
+      "artist": "王力宏",
+      "has_synced": true,
+      "path": "select/03_脚本(Live)_王力宏.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脚本",
+      "artist": "LUCKY TAPES",
+      "has_synced": false,
+      "path": "select/pl_01_脚本_LUCKY_TAPES.txt"
+    }
+  ]
+}
